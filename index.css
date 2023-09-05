@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.nav-title-head{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 100px;
+}
+.nav-title{
+
+}
+span{
+    color:#ED4C67;
+}
+.nav-description{
+    display: flex;
+    align-items: center;
+}
+.nav-title-head ul li{
+    list-style: none;
+    margin-left: 15px;
+}
+.btn{
+    height: 35px;
+    border: none;
+    background-color:#e08d21;
+    border-radius: 8px;
+}
